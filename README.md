@@ -4,7 +4,7 @@ Aqui está um exemplo de README bem estruturado e visualmente agradável, inclui
 
 # 🌊 **Análise de Dados Oceanográficos no Atlântico Sudoeste** 🐋
 
-![Ocean](https://media.giphy.com/media/26Ff0nYpXTj1eNeYE/giphy.gif)
+![Ocean]([https://media.giphy.com/media/26Ff0nYpXTj1eNeYE/giphy.gif](https://giphy.com/clips/WOHno4lHPqD8Lh5cB6))
 
 ## 📜 **Sobre o Projeto**
 
