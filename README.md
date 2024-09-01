@@ -1,7 +1,3 @@
-Aqui está um exemplo de README bem estruturado e visualmente agradável, incluindo emojis e gifs para deixar a apresentação do trabalho mais dinâmica e divertida.
-
----
-
 # 🌊 **Análise de Dados Oceanográficos no Atlântico Sudoeste** 🐋
 
 [![Ocean](https://media.giphy.com/media/12ffdI8DuUi2RO/giphy.gif)](https://giphy.com/gifs/summer-ocean-12ffdI8DuUi2RO)
@@ -36,7 +32,7 @@ As visualizações foram criadas para explorar diferentes aspectos dos dados, in
 - **Mapas de Calor da Superfície**
 - **Distribuições de Parâmetros Oceanográficos**
 
-![Heatmap](https://media.giphy.com/media/3o7qE9WFWpMfP8Os7K/giphy.gif)
+
 
 ## 🌍 **Mapas de Calor**
 
